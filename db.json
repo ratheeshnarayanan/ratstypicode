@@ -10,5 +10,10 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "validate": [
+    { "id": 1, "Username": "Ratheesh", "Password": "Aspire@123" },
+    { "id": 1, "Username": "Dhakshina", "Password": "Aspire@123" }
+  ],
+  
 }
